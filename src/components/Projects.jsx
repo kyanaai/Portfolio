@@ -75,6 +75,15 @@ export default function Projects() {
           )
         )}
       </div>
+      <br />
+
+      <p className="mx-auto mb-12 max-w-3xl text-center text-[#B6BBC4] leading-7">
+        Detailed capstone documentation, including requirements, design artifacts, 
+        status reports, and implementation materials, is available through the 
+        <span className="text-[#F0ECE5] font-medium"> WELLder Info </span> link. 
+        The GitHub repository is private as it is managed by a team member, 
+        but the material can be provided upon request.
+      </p>
     </section>
   )
 }

@@ -148,6 +148,15 @@ export default function App() {
             >
               Dean&apos;s List Award
             </a>
+
+            <a
+              href="https://drive.google.com/file/d/1lIVbxgYTR6wcH266uZBp2WKxU_mzPQAw/view?usp=share_link"
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-xl border border-[#B6BBC4]/30 bg-[#161A30]/40 px-6 py-4 text-[#B6BBC4] transition hover:bg-[#161A30]/70 hover:text-[#F0ECE5]"
+            >
+              IEEE Xtreme Certificate
+            </a>
           </div>
         </div>
       </section>
