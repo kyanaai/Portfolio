@@ -1,4 +1,4 @@
-import "./projects.css"
+import "./Projects.css"
 
 import wellder        from "../assets/wellder.png"
 import weather        from "../assets/weather.png"
